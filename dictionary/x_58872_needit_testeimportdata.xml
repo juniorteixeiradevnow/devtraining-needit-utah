@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="86870154c342061029107405e4013134" extends="sys_import_set_row" label="testeimportdata" max_length="40" name="x_58872_needit_testeimportdata" type="collection">
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Data de Aniversário" label="Data de Aniversário" max_length="40" name="u_data_de_aniversário" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Nome" label="Nome" max_length="40" name="u_nome" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Sexo" label="Sexo" max_length="40" name="u_sexo" type="string"/>
+    </element>
+</database>
